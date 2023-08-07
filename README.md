@@ -1,16 +1,15 @@
-### Hi there 👋
+<img src="https://media.licdn.com/dms/image/D4D16AQHJVmSIgW-4tA/profile-displaybackgroundimage-shrink_350_1400/0/1684772915144?e=1697068800&v=beta&t=QO1hbkRRBFpK4nSK1kZGYAg3cOI-7_ASapzDN6ARgXA">
 
-<!--
-**MicaPicasso/MicaPicasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> ¡Hola! Mi nombre es Micaela Picasso</h2>
+<p><em>- Estudiante Full Stack Developer</br>- Contadora Pública</br>- Community Manager
+</em></p>
 
-Here are some ideas to get you started:
+<h3>Linkedin: <a href="https://www.linkedin.com/in/micaelapicasso/">/micaelapicasso</a> </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const Micaela = {
+  code: [Javascript, HTML, CSS],
+  tools: [React],
+}
+```
